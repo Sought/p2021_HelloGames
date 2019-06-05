@@ -2,3 +2,5 @@
 PLC ANDROID B
 
 Didier HEMERY
+hemery_d
+didier.hemery@epita.fr
