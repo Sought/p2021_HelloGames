@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello Games</string>
+    <string name="txt_game_info">Game Info</string>
+    <string name="txt_name">Name:</string>
+    <string name="txt_type">Type:</string>
+    <string name="txt_nb_players">Nb Players:</string>
+    <string name="txt_year">Year:</string>
+    <string name="button_know_more">DO YOU WANT TO KNOW MORE?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
